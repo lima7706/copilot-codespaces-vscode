@@ -1,0 +1,11 @@
+!DOCTYPE html>
+<html>
+  <head>    <title>My Web Page</title>
+    <link rel="stylesheet" href="styles.css"> <!-- CSS Styling -->
+  </head>
+  <body>
+    <h1>Hello, World!</h1>
+    <p>This is a simple webpage.</p>
+    <script src="script.js"></script> <!-- JavaScript for Interactivity -->
+  </body>
+</html>
